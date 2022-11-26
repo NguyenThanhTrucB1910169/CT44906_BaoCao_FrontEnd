@@ -1,0 +1,120 @@
+{
+  "_id": {
+    "$oid": "637fe596a65b01b272a01b50"
+  },
+  "description": "Thiết kế đường viền cổ áo ngọt ngào giúp tạo vẻ ngoài thời trang  Cubic zirconia mang lại ánh sáng cho chiếc vòng cổ này",
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSJxnZ-YIvbRFkGY-iotJKFsmqXgMj8eY-LHQQCYFdE6tu7YVHLVvYUWQy8YTkMsVrRKVCbLumrePb6kOS2AAv6MdYkeWLjmqevVFrYGt5W&usqp=CAE",
+  "name": "Dây chuyền titan mặt thiên nga, vòng cổ mạ vàng Her Jewelry CT26",
+  "price": 550000,
+  "favorite": true
+}
+{
+  "_id": {
+    "$oid": "637fe652a65b01b272a01bcf"
+  },
+  "description": "Thiết kế xa hoa có một viên đá hình trái tim màu hồng nhạt bên trong một chiếc lồng 3D trong pavé.  Một bổ sung cần thiết cho bất kỳ hộp trang sức nào, nó sẽ mang đến cho phong cách ban ngày của bạn một sự lấp lánh vui tươi.",
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSmcipdWdekCI_tO_k0tNiSc4YkL2CxuXGdzrcTvXzf2gIpe43-vTcOfRTR_QAWYAOQZRk3xvV3pNkYAiEZzpteUS62kHXEiKnhvR64cuWT&usqp=CAE",
+  "name": "Vòng cổ Swarovski Sparkling Dance Heart, Hồng, Mạ Rhodium",
+  "price": 450000,
+  "favorite": false
+}
+{
+  "_id": {
+    "$oid": "63807cb18ad83f83102be162"
+  },
+  "description": "Đá mặt trăng cầu vồng ma thuật mặt trăng đích thực Cắt rực rỡ hình trái tim.  Tính xác thực của đá quý đã được GIA chứng nhận How To Style Gói Mad For You & By Your Side linh hoạt này là món đồ tinh tế cần có trong tủ quần áo của bạn.",
+  "favorite": false,
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRC3gkZB41Jn0rFYdMibNMgfS7I-YCnf5lkdKLVqJijNGNsHuwyBw5SRG3I4zrz7Y_WOl3qFeUwzvfKpLFI-NAxdCioXTRBjmeFad881MQdTkRzWtXiHsgvdA",
+  "name": "Vòng cổ đinh tán Mad for You & by Your Side, Vermeil vàng hồng",
+  "price": 200000
+}
+{
+  "_id": {
+    "$oid": "63808cdd8ad83f83102bec09"
+  },
+  "description": "Vòng Pandora đẹp. Một phần của Bộ sưu tập vượt thời gian Pandora. Bạc sterling với aucun autre matériel, Cubic Zirconia",
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkN1XiyZNV87hXdkOaz1vxro3NMmyxMcRqf_EkIkOhTiHXk0lY-WZYdx4zqF48cEukldGAKrfz8Ko5MmTPzp0cBvz18aZXWQ&usqp=CAY",
+  "name": "Nhẫn hình cánh cung Nhẫn ngọc lục bảo Ngọc lục bảo.",
+  "price": 1250000,
+  "favorite": true
+}
+{
+  "_id": {
+    "$oid": "63808db88ad83f83102bec97"
+  },
+  "description": "Hoàn thiện vẻ ngoài hàng ngày của bạn với chiếc vòng cổ được chế tác đáng yêu.  Tự hào với mặt dây chuyền hình trái tim xinh đẹp với các chi tiết tinh tế.  Phụ kiện quyến rũ này sẽ tạo thêm nét lãng mạn cho bất kỳ trang phục nào.",
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTl13i5_PWi2V_EprlyYTineEj03RYKM-0R3YzXm-YnNQBGfHV1sbVRqTqMs8UnUzVgfRadeqrm7Gy-KTFzKL6Zq75bUiDstmOeV9flAnw&usqp=CAE",
+  "name": "Vòng cổ mặt trái tim cho nữ Ted Baker màu hồng, Hara",
+  "price": 500000,
+  "favorite": false
+}
+{
+  "_id": {
+    "$oid": "63809f928ad83f83102bf1ff"
+  },
+  "description": "Được làm từ bạc sterling để mang lại độ bền và sáng bóng cho chiếc nhẫn này  Những viên đá zirconia hình khối lát nền mang đến vẻ ngoài rực rỡ  Chiếc nhẫn thắt nút trái tim này là một món quà tuyệt đẹp cho những dịp đặc biệt",
+  "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSK7MMW_XXZgCAy0dXiKBX9xgDePlvR2k3faAhyAVq7Eoeh68D5obOlJb4o3j-uYAm141pstG4KNGF0bB5L_ybmKSLv5CUtBHWWyPp3EcZL&usqp=CAE",
+  "name": "Nhẫn Pandora Fairytale Lấp Lánh - Đá CZ Trong Suốt ",
+  "price": 1500000,
+  "favorite": false
+}
+{
+  "_id": {
+    "$oid": "6380a1868ad83f83102bf343"
+  },
+  "description": "Đá hình quả lê mang lại vẻ ngoài hấp dẫn. Được trang trí bằng đá quý zirconia khối để mang lại vẻ xa hoa.  Khóa cài mang lại khả năng giữ an toàn quanh cổ của bạn",
+  "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQBtBHNzpumr2lGjNNfSOnvFQQoQ2xzXydMc1jUbJCFTxmDFAfOMJdG5_8jayMYGkO3HtjfB6SxrLvClc_ah4M6lmwmiAp9qnBDdvAAklUYySIjvkeCPEuteA&usqp=CAE",
+  "name": "Vòng cổ Collier bông tuyết Pandora",
+  "price": 750000,
+  "favorite": false
+}
+{
+  "_id": {
+    "$oid": "6380a2be8ad83f83102bf40d"
+  },
+  "description": "Biểu tượng của tình yêu vô tận: Chiếc vòng Swarovski trang nhã này thể hiện các biểu tượng của tình yêu và sự vĩnh cửu gắn liền với nhau  Được tô điểm bằng những viên pha lê Swarovski trắng, họa tiết trái tim bổ sung lý tưởng cho biểu tượng vô cực để có vẻ ngoài thực sự lãng mạn  Lớp hoàn thiện bằng kim loại hỗn hợp cân bằng tông màu ấm và lạnh một cách lý tưởng để hoàn thiện thiết kế",
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTGqgby3chf2m83Gwd4euADIUrSmuU5rwCdSOqtNS2TF5W3PsYnSSkIKn4ezarYlcWsJRZYwe0rzy9wh84shix_cDKEP1kfyd8rSzdRqZF&usqp=CAE",
+  "name": "Vòng tay Swarovski, Trắng, Mạ Rhodium",
+  "price": 1200000,
+  "favorite": false
+}
+{
+  "_id": {
+    "$oid": "6380a64e8ad83f83102bf65f"
+  },
+  "description": "Vòng đeo tay Wrap Me được làm bằng nylon với khóa chữ T bằng thép không gỉ được đánh bóng và được trang trí bằng logo Montblanc khắc.  Chất liệu Thép.",
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTNBL7Dpb86KTKF-sLY-Ujrs6jX7MiFLMWlGT4Rr66_wTyieDCKDblUNvvEUsX6P7XoZrTmmhJu4PWKjKvDlmrMu9aLRMlLJlLxA7yuW4_d&usqp=CAE",
+  "name": "Vòng Tay Thời Trang Bạc Họa Tiết Thơ Đơn Giản",
+  "price": 750000,
+  "favorite": true
+}
+{
+  "_id": {
+    "$oid": "63811a1f8ad83f83102c3f40"
+  },
+  "description": "Mặt dây chuyền kim loại. Thương hiệu Ted Baker, Khóa cài có thể điều chỉnh. Đi kèm trong hộp mang nhãn hiệu Ted Baker.",
+  "favorite": true,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdFnsqHmRT5cnjVpWcCcBNOYLhPkMfV2mU-ZRAyqKem2dOFecom-IP7hLImVxCDPfocCI-G9acJGl3mTHoNj3U4fT4Y-lJAJjtsOaHo_PipNoHGot6V7Im&usqp=CAE",
+  "name": "Bling Đá Kết Vàng Miami Cuba Liên Kết Chuỗi Vòng",
+  "price": 670000
+}
+{
+  "_id": {
+    "$oid": "6381258d8ad83f83102c466e"
+  },
+  "description": "Chiếc vòng cổ này là hoàn hảo cho trang phục hàng ngày hoặc để mặc trang phục của bạn cho một dịp đặc biệt. Vòng cổ nhiều lớp có ba lớp dây chuyền bạc có thể đeo riêng hoặc đeo cùng nhau. Một phụ kiện thiết yếu, chiếc vòng cổ này là phụ kiện hoàn hảo cho bất kỳ dịp nào.",
+  "favorite": true,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQeOpxNBuhvxHuF7jWaGjoLm4rwABNiM4LrYP9aH0afMNzi6qIMEzw9hoz3PigShe_Z-3EqAmCcuPMveUGUe3FOsYN-amHO7KuOMQBHJG0N&usqp=CAE",
+  "name": "Vòng cổ nhiều lớp với mặt dây chuyền đồng xu",
+  "price": 320000
+}
+{
+  "_id": {
+    "$oid": "6381d772510cf9b3e186bfe4"
+  },
+  "description": "Mặt số tròn với dây đai lưới mang đến nét cổ điển cho chiếc đồng hồ này. Khóa cài có thể gập lại giữ cho nó an toàn quanh cổ tay của bạn. Chất liệu thép không gỉ tạo độ sáng bóng",
+  "favorite": true,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjb3mGyFbdcf98_MzaNXRXeOQIeZfFNgYTfoLo8U1LRy04pNMgKZRXe5q1LlnKFCsVedVuHNkodPQA-juSXBydGkB5-7WcBvxoiV3csqxb&usqp=CAE",
+  "name": "Đồng hồ Longines Automatic dây thép",
+  "price": 1200000
+}
