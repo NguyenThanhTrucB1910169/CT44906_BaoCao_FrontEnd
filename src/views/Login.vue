@@ -44,13 +44,7 @@ export default {
   methods: {
     async login(user) {
       try {
-        // let check = false;
         this.info = await SignupService.auth(user);
-        // this.info.forEach((item, index) => {
-        //   if (item.email == user.email && item.password == user.password) {
-        //     check = true;
-        //   }
-        // });
         if (this.info) {
           alert("Đăng nhập thành công");
           this.$router.push({ name: "manager" });

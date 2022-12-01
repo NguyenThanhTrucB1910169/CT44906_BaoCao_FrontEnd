@@ -19,7 +19,7 @@ export default {
       {{ Intl.NumberFormat().format(item.price) }}đ
     </div>
     <div class="p-1 border-bottom py-3 break-line">
-      <strong>Miêu Tả Sản Phẩm: </strong>
+      <strong>Mô Tả Sản Phẩm: </strong>
       {{ item.description }}
     </div>
 

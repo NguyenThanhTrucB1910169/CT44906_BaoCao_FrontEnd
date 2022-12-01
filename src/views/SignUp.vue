@@ -37,7 +37,7 @@ export default {
         alert("Đăng Ký thành công");
         this.$router.push({ name: "Signin" });
       } catch (error) {
-        console.log(error);
+        alert(error.response.data.message);
       }
     },
   },

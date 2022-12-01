@@ -1,6 +1,6 @@
 <script>
 import CartService from "@/services/cart.service";
-import $ from "jQuery";
+// import $ from "jQuery";
 export default {
   props: {
     products: { type: Array, default: [] },
@@ -15,18 +15,12 @@ export default {
     updateActiveIndex(index) {
       this.$emit("update:activeIndex", index);
     },
-    displayDetail() {
-      $("#myModal").on("shown.bs.modal", function () {
-        $("#myInput").trigger("focus");
-      });
-    },
+    // displayDetail() {},
     async createCart(product) {
       let arrayCart = [];
       let exist = false;
       try {
         arrayCart = await CartService.getAll();
-        // console.log(arrayCart);
-        // console.log(product._id);
         arrayCart.forEach((element, index) => {
           if (element.name == product.name) {
             alert("Sản phẩm đã có trong giỏ hàng!");
@@ -52,7 +46,7 @@ export default {
     :class="{ active: index === activeIndex }"
     @click="updateActiveIndex(index)"
   >
-    <div @click="displayDetail" data-toggle="modal" data-target="#exampleModal">
+    <div data-toggle="modal" data-target="#exampleModal">
       <img :src="product.image" alt="" class="item-img" />
       <h5 class="item-title">
         {{ product.name }}

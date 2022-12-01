@@ -3,6 +3,9 @@ export default {
   props: {
     modelValue: { type: String, default: "" },
   },
+  // data: {
+  //   key: "",
+  // },
   emits: ["submit", "update:modelValue"],
   methods: {
     updateModelValue(e) {
@@ -11,6 +14,15 @@ export default {
     submit() {
       this.$emit("submit");
     },
+    // changeSort(event) {
+    //   console.log(event.target.value);
+    // },
+    // highPrice() {
+    //   alert("Tăng dần");
+    // },
+    // lowPrice() {
+    //   alert("Giảm dần");
+    // },
   },
 };
 </script>
@@ -44,5 +56,9 @@ export default {
       @input="updateModelValue"
       @keyup.enter="submit"
     />
+    <!-- <select name="" id="" @change="changeSort(this.key)" v-model="key">
+      <option value="1">Giá Tăng dần</option>
+      <option value="2">Giá Giảm dần</option>
+    </select> -->
   </div>
 </template>

@@ -253,7 +253,7 @@ a,
   }
 
   .order-form{
-    width: 500px
+    width: 550px
   }
 }
 
@@ -658,4 +658,12 @@ a,
 .img-detail{
   width: 190px;
   padding-top: 20px;
+}
+
+.order-button{
+  margin: 35px 0 0 17px
+}
+
+.font{
+  font-size: 23px!important;
 }

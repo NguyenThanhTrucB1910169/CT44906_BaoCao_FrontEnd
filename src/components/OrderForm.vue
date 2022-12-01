@@ -4,9 +4,20 @@
     @submit="submitorder"
     :validation-schema="orderFormSchema"
   >
-    <div class="form-group my-4 text-center">
-      <h1>Thông Tin Đặt Hàng</h1>
+    <div>
+      <!-- <router-link
+        :to="{ name: 'manager' }"
+        tag="button"
+        class="btn return-btn d-inline-block"
+      >
+        <i class="fa-solid fa-arrow-left"></i>
+        <span class="px-2">Quay lại</span>
+      </router-link> -->
+      <div class="form-group my-4 text-center d-inline-block">
+        <h1 class="d-inline-block">Thông Tin Đặt Hàng</h1>
+      </div>
     </div>
+
     <div class="form-group my-4">
       <label class="font-weight-bolder mx-3" for="name">Họ Tên: </label>
       <Field
@@ -23,7 +34,7 @@
         name="address"
         type="text"
         class="form-control"
-        v-model.number="orderLocal.address"
+        v-model="orderLocal.address"
       />
       <ErrorMessage name="address" class="error-feedback" />
     </div>
@@ -89,22 +100,24 @@ export default {
     order: { type: Object, required: true },
   },
   data() {
-    // const itemFormSchema = yup.object().shape({
-    //   name: yup
-    //     .string()
-    //     .required("Tên phải có giá trị")
-    //     .min(2, "Tên phải ít nhất 2 ký tự.")
-    //     .max(50, "Tên có nhiều nhất 50 ký tự."),
+    const orderFormSchema = yup.object().shape({
+      name: yup
+        .string()
+        .required("Tên phải có giá trị")
+        .min(2, "Tên phải ít nhất 2 ký tự.")
+        .max(50, "Tên có nhiều nhất 50 ký tự."),
 
-    //   description: yup
-    //     .string()
-    //     .required("Miêu tả phải có giá trị")
-    //     .min(10, "Mô tả phải ít nhất 10 ký tự."),
-    //   image: yup.string().required("Phải có link ảnh"),
-    // });
+      address: yup.string().max(100, "Địa chỉ tối đa 100 ký tự."),
+      phone: yup
+        .string()
+        .matches(
+          /((09|03|07|08|05)+([0-9]{8})\b)/g,
+          "Số điện thoại không hợp lệ."
+        ),
+    });
     return {
       orderLocal: this.order,
-      // itemFormSchema,
+      orderFormSchema,
     };
   },
   methods: {

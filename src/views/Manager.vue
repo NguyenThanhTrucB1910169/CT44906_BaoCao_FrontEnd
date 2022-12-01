@@ -71,6 +71,9 @@
       InputSearch,
       ProductItem
     },
+    // props: {
+    //   auth: { type: boolean, default: false}
+    // },
     data() {
       return {
         products: [],
@@ -135,6 +138,9 @@
       }
     },
     },
+    // created(){
+    //   console.log(this.$route.params)
+    // },
     mounted() {
       this.refreshList();
     },

@@ -24,18 +24,6 @@
       <ErrorMessage name="password" class="error-feedback" />
     </div>
 
-    <div class="form-outline mb-4">
-      <label class="form-label font-weight-bolder" for="confirm"
-        >Nhập lại mật khẩu</label
-      >
-      <Field
-        type="password"
-        name="confirm"
-        class="form-control form-control-lg"
-        v-model="infoLocal.confirm"
-      />
-    </div>
-    <ErrorMessage name="confirm" class="error-feedback" />
     <div class="form-group">
       <button
         class="btn btn-success btn-block btn-lg gradient-custom-4 text-body"
@@ -82,9 +70,6 @@ export default {
         .string()
         .required("Mật khẩu phải có giá trị")
         .min(5, "Mậ khẩu phải ít nhất 5 ký tự."),
-      confirm: yup
-        .string()
-        .oneOf([yup.ref("password"), null], "Mật khẩu không khớp"),
     });
     return {
       infoLocal: this.info,

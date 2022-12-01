@@ -1,5 +1,16 @@
 <template>
-  <div class="d-lg-flex justify-content-around">
+  <div class="d-lg-flex justify-content-between">
+    <div>
+      <router-link
+        :to="{ name: 'manager' }"
+        tag="button"
+        class="btn return-btn order-button"
+      >
+        <i class="fa-solid fa-arrow-left"></i>
+        <span class="px-2">Quay lại</span>
+      </router-link>
+    </div>
+
     <OrderForm :order="order" @submit:order="createOrder" />
 
     <OrderProducts :cartList="cartList" @update:total="totalSet" />
