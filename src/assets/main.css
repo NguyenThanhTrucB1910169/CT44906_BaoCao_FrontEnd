@@ -667,3 +667,8 @@ a,
 .font{
   font-size: 23px!important;
 }
+
+.found{
+  color: #000;
+  min-height: 354px;
+}
